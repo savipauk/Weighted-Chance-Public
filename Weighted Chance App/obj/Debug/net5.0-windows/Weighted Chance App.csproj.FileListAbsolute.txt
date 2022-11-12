@@ -1,0 +1,19 @@
+C:\Users\erikk\source\repos\Weighted Chance App\Weighted Chance App\bin\Debug\net5.0-windows\Weighted Chance App.exe
+C:\Users\erikk\source\repos\Weighted Chance App\Weighted Chance App\bin\Debug\net5.0-windows\Weighted Chance App.deps.json
+C:\Users\erikk\source\repos\Weighted Chance App\Weighted Chance App\bin\Debug\net5.0-windows\Weighted Chance App.runtimeconfig.json
+C:\Users\erikk\source\repos\Weighted Chance App\Weighted Chance App\bin\Debug\net5.0-windows\Weighted Chance App.runtimeconfig.dev.json
+C:\Users\erikk\source\repos\Weighted Chance App\Weighted Chance App\bin\Debug\net5.0-windows\Weighted Chance App.dll
+C:\Users\erikk\source\repos\Weighted Chance App\Weighted Chance App\bin\Debug\net5.0-windows\ref\Weighted Chance App.dll
+C:\Users\erikk\source\repos\Weighted Chance App\Weighted Chance App\bin\Debug\net5.0-windows\Weighted Chance App.pdb
+C:\Users\erikk\source\repos\Weighted Chance App\Weighted Chance App\obj\Debug\net5.0-windows\Weighted Chance App.csproj.AssemblyReference.cache
+C:\Users\erikk\source\repos\Weighted Chance App\Weighted Chance App\obj\Debug\net5.0-windows\Weighted_Chance_App.Form1.resources
+C:\Users\erikk\source\repos\Weighted Chance App\Weighted Chance App\obj\Debug\net5.0-windows\Weighted Chance App.csproj.GenerateResource.cache
+C:\Users\erikk\source\repos\Weighted Chance App\Weighted Chance App\obj\Debug\net5.0-windows\Weighted Chance App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikk\source\repos\Weighted Chance App\Weighted Chance App\obj\Debug\net5.0-windows\Weighted Chance App.AssemblyInfoInputs.cache
+C:\Users\erikk\source\repos\Weighted Chance App\Weighted Chance App\obj\Debug\net5.0-windows\Weighted Chance App.AssemblyInfo.cs
+C:\Users\erikk\source\repos\Weighted Chance App\Weighted Chance App\obj\Debug\net5.0-windows\Weighted Chance App.csproj.CoreCompileInputs.cache
+C:\Users\erikk\source\repos\Weighted Chance App\Weighted Chance App\obj\Debug\net5.0-windows\Weighted Chance App.dll
+C:\Users\erikk\source\repos\Weighted Chance App\Weighted Chance App\obj\Debug\net5.0-windows\ref\Weighted Chance App.dll
+C:\Users\erikk\source\repos\Weighted Chance App\Weighted Chance App\obj\Debug\net5.0-windows\Weighted Chance App.pdb
+C:\Users\erikk\source\repos\Weighted Chance App\Weighted Chance App\obj\Debug\net5.0-windows\Weighted Chance App.genruntimeconfig.cache
+C:\Users\erikk\source\repos\Weighted Chance App\Weighted Chance App\obj\Debug\net5.0-windows\Weighted_Chance_App.Properties.Resources.resources

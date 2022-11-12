@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Weighted Chance App/1.0.0": {
+        "runtime": {
+          "Weighted Chance App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Weighted Chance App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

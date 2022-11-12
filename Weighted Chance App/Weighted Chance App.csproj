@@ -1,0 +1,57 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Weighted_Chance_App</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net5.0-windows\ItemIcons\Blank.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net5.0-windows\ItemIcons\Feather.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net5.0-windows\ItemIcons\Diamond.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net5.0-windows\ItemIcons\Wheat.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net5.0-windows\ItemIcons\String.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net5.0-windows\ItemIcons\RottenFlesh.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net5.0-windows\ItemIcons\Leather.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net5.0-windows\ItemIcons\GoldIngot.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
